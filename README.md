@@ -1,2 +1,2 @@
-# Python-
-Python abubakar jafar computer science bauchi 
+name=(abubakar) 
+age=(19)
